@@ -1,0 +1,40 @@
+_repo: Paula-Monti-or-The-Hotel-Lambert_64739
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: David, Jules
+    gutenberg_agent_id: '53032'
+    url: http://www.gutenberg.org/2009/agents/53032
+  translator:
+    agent_name: Town, Charles H.
+    gutenberg_agent_id: '53031'
+    url: http://www.gutenberg.org/2009/agents/53031
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Eugene
+    - Sue, Marie Joseph Eugène
+    - Sue, Marie Joseph
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eug%C3%A8ne_Sue
+    - https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Sue
+description: ''
+gutenberg_issued: '2021-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Paula Monti
+
+  or, The Hôtel Lambert'
+url: http://www.gutenberg.org/ebooks/64739
