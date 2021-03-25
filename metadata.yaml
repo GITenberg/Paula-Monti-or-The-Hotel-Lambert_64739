@@ -9,6 +9,9 @@ contributor:
     agent_name: Town, Charles H.
     gutenberg_agent_id: '53031'
     url: http://www.gutenberg.org/2009/agents/53031
+covers:
+- cover_type: archival
+  image_path: 64739-h/images/paula_cover.jpg
 creator:
   author:
     agent_name: Sue, Eugène
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Eug%C3%A8ne_Sue
     - https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Sue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64739#Paula-Monti-or-The-Hotel-Lambert
 gutenberg_issued: '2021-03-07'
 gutenberg_type: Text
 identifiers:
